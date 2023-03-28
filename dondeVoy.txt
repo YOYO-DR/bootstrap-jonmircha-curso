@@ -1,1 +1,2 @@
-32. Aplicando estilos al botón de hamburguesa 3:56:00
+41. Maquetación HTML de cards del home 4:59:30
+
